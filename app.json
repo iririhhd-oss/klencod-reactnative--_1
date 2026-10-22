@@ -1,0 +1,5 @@
+{
+  "name": "App1",
+  "displayName": "ايرس_1",
+  "android": {"packageName": "com.klencod.compass"}
+}
